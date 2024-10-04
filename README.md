@@ -21,6 +21,4 @@ Comet for tracking and visualization
 
 Insights from Comet:
 I’ve included screenshots of the Comet analysis below to give you a glimpse of the model’s performance and my analytical approach.
-
-![Different Panels](Comet Data Analysis Screenshots/Panels.png)
-![Text Analysis](Comet Data Analysis Screenshots/Text.png)
+These screenshots are present in a seperate folder.
