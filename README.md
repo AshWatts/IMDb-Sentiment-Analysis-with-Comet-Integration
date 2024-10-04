@@ -18,8 +18,3 @@ Natural Language Processing (NLP)
 Machine Learning
 Google Colab
 Comet for tracking and visualization
-
-Getting Started:
-Clone this repo to get started.
-Set up your own Comet account and grab your API key.
-Follow along in the notebook to run the sentiment classification model and check out the results on Comet.
